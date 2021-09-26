@@ -1,0 +1,3 @@
+db : admin
+username : admin
+pass :[.)UruKR.Xirx@MC
